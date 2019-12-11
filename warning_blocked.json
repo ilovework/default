@@ -1,6 +1,6 @@
 {
-    "visible": false,
-    "enterEnabled": true,
+    "visible": true,
+    "enterEnabled": false,
     "title": "Сервис временно недоступен",
     "text": "Разработчики уже знают об ошибке и стараются её исправить. Попробуйте зайти позже."
 }
